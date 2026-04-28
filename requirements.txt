@@ -8,3 +8,4 @@ xgboost
 shap
 prince
 pillow
+scikit_posthocs

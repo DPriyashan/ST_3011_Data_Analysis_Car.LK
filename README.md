@@ -146,6 +146,12 @@ scikit_posthocs
 
 ## 📋 Dataset
 
+| Attribute | Details |
+|-----------|---------|
+| **Source** | [Kaggle — Sri Lanka Used Car Market Dataset](https://www.kaggle.com/datasets/prasadnirmal/srilankan-second-vehiclecar-price-dataset) |
+| **Original size** | 9,788 records, 16 variables |
+| **Target variable** | `price` (LKR Lakhs)|
+
 The dataset contains car listings scraped from the Sri Lankan car market with the following features:
 
 | Feature | Description |
@@ -167,7 +173,6 @@ The dataset contains car listings scraped from the Sri Lankan car market with th
 ## 👤 Author
 
 **Dinusha Priyashan**
-Student ID: s16798
 Department of Statistics
 University of Colombo
 ST3011 — Statistical Data Analysis

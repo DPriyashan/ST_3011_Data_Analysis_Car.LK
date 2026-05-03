@@ -11,7 +11,7 @@ An interactive data analysis and machine learning dashboard for the Sri Lankan s
 
 ## 📌 Project Overview
 
-Car.LK is a web-based dashboard that analyses car listing data from the Sri Lankan market. It provides interactive visualisations, statistical hypothesis tests, machine learning price predictions, and factor/cluster analysis — all in one place.
+Car.LK is a web-based dashboard that analyses car listing data from the Sri Lankan market. It provides interactive visualisations, statistical hypothesis tests, machine learning price predictions, and factor/cluster analysis - all in one place.
 
 ---
 
